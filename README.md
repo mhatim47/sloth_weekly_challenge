@@ -33,10 +33,3 @@ node challenge_January-7th,2026.js
 
 Each challenge file contains test cases. Run the file to see which tests pass or fail.
 
-## Author
-
-Sloth Developer
-
-## License
-
-MIT
